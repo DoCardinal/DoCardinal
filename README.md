@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
 Bonjour,
+
 Je suis Dominique.
 Je suis inscrite au baccalauréat en génie logiciel et je prends présentement mon premier cours de code en python.
 Je m'intéresse particulièrement aux monnaies digitales et aux nouvelles idées qu'elles font évoluer.
@@ -47,3 +47,6 @@ _Une firme 100% virtuelle, informatisée et dans le nuage, Comptabilité Xen est
 
 # Intérêts
  - Monnaies digitales (et les nouvelles idées sociales qu’elles font évoluer)
+
+
+theme: jekyll-theme-cayman
