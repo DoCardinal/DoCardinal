@@ -4,8 +4,11 @@ Je suis inscrite au baccalauréat en génie logiciel et je prends présentement 
 Je m'intéresse particulièrement aux monnaies digitales et aux nouvelles idées qu'elles font évoluer.
 
 Habiletés 
-•	Sens de l’anticipation
-•	Bilingue (français, Anglais)  
+
+Sens de l’anticipation
+
+Bilingue (français, Anglais)  
+
 Formation 
 
 2005
