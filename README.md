@@ -12,9 +12,11 @@ Je m'intéresse particulièrement aux monnaies digitales et aux nouvelles idées
 ### Septembre 2023 @ mai 2029
 - Baccalauréat en génie logiciel avec année préparatoire
    - Université Laval
+
 ### 2014-2017
 - Études en Mathématiques à temps partiel (non complétées)
    - Université Concordia
+
 ### 2005
 - Diplôme d’études secondaires
    - École secondaire de Rochebelle
