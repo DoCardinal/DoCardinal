@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Dominique Marmen]
-logo: [assets/flag_of_Earth.png]
+logo: /assets/flag_of_Earth.png
 description: [Mon CV]
