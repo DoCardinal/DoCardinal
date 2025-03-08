@@ -1,4 +1,6 @@
-Dominique Marmen
+✉️ domar149@ulaval.ca
+📞 581-745-5104
+
 # Habiletés 
    - Sens de l’anticipation
    - Bilingue (français, Anglais)  
