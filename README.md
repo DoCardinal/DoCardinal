@@ -8,7 +8,7 @@
 
 # Formation 
 #### Septembre 2023 @ mai 2029
-   - Baccalauréat en génie logiciel avec année préparatoire
+   - Baccalauréat en génie logiciel avec année pré-universitaire
       - Université Laval
 
 #### 2014-2017
