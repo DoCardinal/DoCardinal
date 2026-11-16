@@ -47,4 +47,4 @@ _Une firme 100% virtuelle, informatisée et dans le nuage, Comptabilité Xen est
 - Servir et conseiller les clients 
 
 # Intérêts
- - monnaies digitales
+ - monnaies numériques
