@@ -4,7 +4,12 @@
 
 # Habiletés 
    - Sens de l’anticipation
-   - Bilingue (français, Anglais)  
+   - Bilingue (français, Anglais)
+     
+# Habiletés technique
+   - C++
+   - un peu de python
+   - git et github
 
 # Formation 
 #### Septembre 2023 @ mai 2029
@@ -21,9 +26,8 @@
  
 # Expériences Professionnelles 
 
-#### Commis de café -	Gare du Palais – Ville de Québec | Août 2023 à aujourd’hui
-- Faire les cafés, servir les clients
-- Compter la caisse et faire des sandwichs
+#### Commis de café -	Gare du Palais – Ville de Québec | Août 2023 à septembre 2025
+- Faire les cafés, servir les clients, compter la caisse et faire des sandwichs
 
 #### Commis aux achats / assistante	- La Maison Simons – Ville de Québec | Juin 2021 à Juin 2023
 - Faire le suivi des communications avec les magasins, les acheteurs et les fournisseurs
@@ -43,4 +47,4 @@ _Une firme 100% virtuelle, informatisée et dans le nuage, Comptabilité Xen est
 - Servir et conseiller les clients 
 
 # Intérêts
- - Je m’intéresse au futur de nos systèmes monétaires.
+ - monnaies digitales
