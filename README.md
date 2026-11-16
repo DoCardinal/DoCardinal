@@ -6,10 +6,10 @@
    - Sens de l’anticipation
    - Bilingue (français, Anglais)
      
-# Habiletés technique
+# Compétences techniques
    - C++
-   - un peu de python
-   - git et github
+   - Python (notions de base)
+   - Git et Github
 
 # Formation 
 #### Septembre 2023 @ mai 2029
