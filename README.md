@@ -1,4 +1,4 @@
-✉️ domar149@ulaval.ca
+✉️ dominique.marmen.1@ulaval.ca
 
 📞 581-745-5104
 
